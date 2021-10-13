@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(130, 128, 241);
+    font-family: cursive;
+}
+form{
+    width: 70%;
+    border: 1px solid rgb(0, 3, 0);
+    margin: 20px;
+    padding: 20px;
+}
+label{
+    font-size: 15px;
+    display: block;
+    color: rgb(255, 4, 4);
+    font-family: cursive;
+}
+input{
+    margin-bottom: 20px;
+    width: 100%;
+}
+textarea{
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+}
+button{
+    width: 100%;
+    font-family: cursive;
+}
+input:focus{
+    border: 1px solid rgb(0, 0, 0);;
+}
+p{
+    color: rgba(107, 107, 216, 0.808);
+    width: 100px;
+}
